@@ -1,4 +1,5 @@
 .venv\
-.db
+.venv/.gitignore
+*.db
 .env
 .env.example
